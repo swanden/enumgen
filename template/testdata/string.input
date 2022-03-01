@@ -1,0 +1,13 @@
+package colors
+
+//go:generate enumgen
+
+type Color struct {
+	value string
+}
+
+const (
+	RED   = "red"
+	GREEN = "green"
+	BLUE  = "blue"
+)
