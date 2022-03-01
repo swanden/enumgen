@@ -17,7 +17,7 @@ go install github.com/swanden/enumgen
 
 Run
 ================
-Create file colors.go with batch of consts and main struct
+Create file colors.go with batch of constants and main struct.
 ~~~
 package colors
 
